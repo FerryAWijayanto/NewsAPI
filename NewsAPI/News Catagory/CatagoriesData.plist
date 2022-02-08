@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>category</key>
+		<string>business</string>
+		<key>image</key>
+		<string>business.png</string>
+		<key>color</key>
+		<string>FCEDE8</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>entertainment</string>
+		<key>image</key>
+		<string>entertainment.png</string>
+		<key>color</key>
+		<string>FFEBF3</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>general</string>
+		<key>image</key>
+		<string>general.png</string>
+		<key>color</key>
+		<string>F0F3F7</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>health</string>
+		<key>image</key>
+		<string>health.png</string>
+		<key>color</key>
+		<string>E4F7F7</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>science</string>
+		<key>image</key>
+		<string>science.png</string>
+		<key>color</key>
+		<string>F4F2E0</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>sports</string>
+		<key>image</key>
+		<string>sports.png</string>
+		<key>color</key>
+		<string>EBF9FF</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>technology</string>
+		<key>image</key>
+		<string>technology.png</string>
+		<key>color</key>
+		<string>EBF1FF</string>
+	</dict>
+</array>
+</plist>
