@@ -38,7 +38,7 @@ class NewsArticleInteractor: NewsArticleInteractorProtocol {
                 guard let self = self else { return }
                 switch results {
                 case .success(let articles):
-                    self.articles = articles
+                    self.articles.append(contentsOf: articles)
                     if articles.count < 20 { self.hasMoreArticle = false }
                     self.presenter.present(articles: articles)
                 case .failure(let error):
